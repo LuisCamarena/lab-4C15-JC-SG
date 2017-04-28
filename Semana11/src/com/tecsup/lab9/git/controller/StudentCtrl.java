@@ -7,6 +7,7 @@ int numero;
 public void cambio(){
 	int suma;
 	String sasds;
+	int ssss;
 }
 
 }
