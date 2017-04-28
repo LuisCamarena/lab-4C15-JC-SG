@@ -4,6 +4,9 @@ public class StudentCtrl {
 int blabla;
 int numero;
 
-public void cambio(){}
+public void cambio(){
+	int suma;
+	String sasds;
+}
 
 }
